@@ -1,6 +1,8 @@
 # RV Transcriber
 
-This repo contains the Team Luna Red Ventures Meeting Transcriber product process and supporting documents.
+This repo contains the [Team Luna](http://teamluna.co/) Meeting Transcriber product process and supporting documents, being made for the [Red Ventures 2016 Hackathon](https://www.redventures.com/hackathon/)
+
+Tweet me [@josephjguerra](https://twitter.com/josephjguerra) to talk about it.
 
 - [UX Research Plan](https://github.com/josephjguerra/rv-transcriber/UXResearchPlan-MeetingTranscriber.pdf)
 - [User Interviews](https://github.com/josephjguerra/rv-transcriber/MeetingTranscriber-UserInterviews.pdf)
