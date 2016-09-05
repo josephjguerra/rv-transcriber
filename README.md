@@ -11,7 +11,7 @@ Tweet me [@josephjguerra](https://twitter.com/josephjguerra) to talk about it.
 - [Storyboard - Existing Meeting](https://github.com/josephjguerra/rv-transcriber/blob/master/StoryboardKaraExistingMeeting.pdf)
 - [Point of View and How Might We](https://github.com/josephjguerra/rv-transcriber/blob/master/POV_HMW.pdf)
 - [Possible Solutions - Crazy Eights](https://github.com/josephjguerra/rv-transcriber/blob/master/PossibileSolutionsListCrazyEights.pdf)
-- Storyboard - Potential Solution
+- [Storyboard - Potential Transcriber Solution](https://github.com/josephjguerra/rv-transcriber/blob/master/StoryboardKaraProposedMeeting.pdf)
 - Learning Canvas
 - Landing Page
 - Test Results
