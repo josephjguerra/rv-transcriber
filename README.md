@@ -4,14 +4,24 @@ This repo contains the [Team Luna](http://teamluna.co/) Meeting Transcriber prod
 
 Tweet me [@josephjguerra](https://twitter.com/josephjguerra) to talk about it.
 
+###Planning
 - [Product Guiding Doc](https://github.com/josephjguerra/rv-transcriber/blob/master/RVHackathonMeetingTranscriberGuidingDoc.pdf)
 - [UX Research Plan](https://github.com/josephjguerra/rv-transcriber/blob/master/UXResearchPlan-MeetingTranscriber.pdf)
+###Empathize
+- [Eavesdropping](https://github.com/josephjguerra/rv-transcriber/blob/master/Eavesdropping-MeetingPaintPoints.pdf)
 - [User Interviews](https://github.com/josephjguerra/rv-transcriber/blob/master/MeetingTranscriber-UserInterviews.pdf)
+- Survey
+###Define
 - [Empathy Map - Kara Persona](https://github.com/josephjguerra/rv-transcriber/blob/master/EmpathyMap-KaraMeetingRecorderValidation.png)
 - [Storyboard - Existing Meeting](https://github.com/josephjguerra/rv-transcriber/blob/master/StoryboardKaraExistingMeeting.pdf)
+- Heuristic Review
+- Feature Matrix
 - [Point of View and How Might We](https://github.com/josephjguerra/rv-transcriber/blob/master/POV_HMW.pdf)
+###Ideate
 - [Possible Solutions - Crazy Eights](https://github.com/josephjguerra/rv-transcriber/blob/master/PossibileSolutionsListCrazyEights.pdf)
 - [Storyboard - Potential Transcriber Solution](https://github.com/josephjguerra/rv-transcriber/blob/master/StoryboardKaraProposedMeeting.pdf)
 - Learning Canvas
+###Prototype
 - Landing Page
+###Test
 - Test Results
