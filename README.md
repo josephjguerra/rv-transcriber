@@ -23,10 +23,10 @@ Tweet me [@josephjguerra](https://twitter.com/josephjguerra) to talk about it.
 ###Ideate
 - [Possible Solutions - Crazy Eights](https://github.com/josephjguerra/rv-transcriber/blob/master/PossibileSolutionsListCrazyEights.pdf)
 - [Storyboard - Potential Transcriber Solution](https://github.com/josephjguerra/rv-transcriber/blob/master/StoryboardKaraProposedMeeting.pdf)
-- Learning Canvas
 
 ###Prototype
-- Landing Page
+- Learning Canvas
+- [Echo Scribe Landing Page](http://lnc.hr/bmLaW) ([png](https://github.com/josephjguerra/rv-transcriber/blob/master/echo-scribe.png))
 
 ###Test
 - Test Results
