@@ -26,7 +26,7 @@ Tweet me [@josephjguerra](https://twitter.com/josephjguerra) to talk about it.
 
 ### Prototype
 - Learning Canvas
-- [Echo Scribe Landing Page](http://lnc.hr/bmLaW) ([png](https://github.com/josephjguerra/rv-transcriber/blob/master/echo-scribe.png))
+- [Echo Scribe Landing Page](https://rvhackathon2016.github.io/echo-scribe/)
 
 ### Test
 - Test Results
